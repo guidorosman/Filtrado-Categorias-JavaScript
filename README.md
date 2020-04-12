@@ -1,4 +1,4 @@
-# Filtrado-Elementos-Categoria
+# Filtrado-Categoria-JavaScript
 
 El proyecto consiste en filtrado de distintos productos por categorias. Al seleccionar una categoria determinada, se muestran los productos pertenecientes a dicha categoria. Y ademas se muestra visualmente cual es la categoria que esta activa.
 
