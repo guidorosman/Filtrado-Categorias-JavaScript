@@ -4,8 +4,8 @@ El proyecto consiste en filtrado de distintos productos por categorias. Al selec
 
 # Tecnologías usadas
 
-JavaScript, CSS, HTML
+HTML, CSS y JavaScript.
 
-# Visitando el sitio del proyecto
+# Probando el funcionamiento
 
-El proyecto se lo puede visualizar en funcionamiento en el siguiente link: https://guidorosman.000webhostapp.com/filtrado-categorias/
+Se puede probar el funcionamiento en https://proyectos-grosman.000webhostapp.com/filtrado-javascript/
